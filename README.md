@@ -18,7 +18,7 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/sms-bomb-sender.git
+git clone https://github.com/dularawe/SMS_Bomb.git
 cd sms-bomb-sender
 
 Install dependencies:
